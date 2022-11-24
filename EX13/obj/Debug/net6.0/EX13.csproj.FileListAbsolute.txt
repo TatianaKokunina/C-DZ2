@@ -1,0 +1,15 @@
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.csproj.AssemblyReference.cache
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.AssemblyInfoInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.AssemblyInfo.cs
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.csproj.CoreCompileInputs.cache
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\bin\Debug\net6.0\EX13.exe
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\bin\Debug\net6.0\EX13.deps.json
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\bin\Debug\net6.0\EX13.runtimeconfig.json
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\bin\Debug\net6.0\EX13.dll
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\bin\Debug\net6.0\EX13.pdb
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.dll
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\refint\EX13.dll
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.pdb
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\EX13.genruntimeconfig.cache
+D:\Базовый курс. Тестировщик\C#DZ2\EX13\obj\Debug\net6.0\ref\EX13.dll
